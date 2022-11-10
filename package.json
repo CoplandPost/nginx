@@ -1,0 +1,13 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "stop": "docker-compose down",
+    "prep:docker": "docker-compose up -d"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
