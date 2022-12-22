@@ -151,3 +151,5 @@
 172.18.0.1 - - [14/Dec/2022:09:09:01 +0000] "GET /tasks/offer/dsds HTTP/1.1" 200 2869 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
 172.18.0.1 - - [14/Dec/2022:09:09:02 +0000] "GET /tasks/offer/main-bundle-f8547e60cfbf632a697e.js HTTP/1.1" 200 2869 "http://127.0.0.1/tasks/offer/dsds" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
 172.18.0.1 - - [14/Dec/2022:09:09:02 +0000] "GET /favicon.ico HTTP/1.1" 500 579 "http://127.0.0.1/tasks/offer/dsds" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+172.18.0.1 - - [20/Dec/2022:02:21:40 +0000] "GET /tasks/teste.js HTTP/1.1" 500 579 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+172.18.0.1 - - [20/Dec/2022:02:21:40 +0000] "GET /favicon.ico HTTP/1.1" 500 579 "http://127.0.0.1/tasks/teste.js" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
